@@ -20,7 +20,7 @@ Browser Extension to quickly change your browser locale.
 
 ## ❓ What does it do?
 
-When a locale chosen the following thinks will be adjusted:
+When a locale chosen the following things will be adjusted:
 
 - `navigator.language`
 - `navigator.languages`
